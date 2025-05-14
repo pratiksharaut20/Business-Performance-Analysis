@@ -58,7 +58,11 @@ To analyze and visualize key business data across orders, products, customers, e
      * Overview Dashboard
        
 --- 
-       
+
+### *Dashboard:*
+
+---
+
 ### *Project Insights:*
 
 * *Top Product Category:* Beverages generated the highest revenue (\~\$286K).
