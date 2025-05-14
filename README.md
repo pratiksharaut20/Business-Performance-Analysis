@@ -33,20 +33,20 @@ To analyze and visualize key business data across orders, products, customers, e
 ### *Process Followed:*
 
 1. *Data Collection:*
-  Dataset used: 
-  <a href= "https://www.kaggle.com/api/v1/datasets/download/matthuan/northwind-dataset"> Northwind Traders Data</a>
 
-2. Data Cleaning & Transformation:
+   * Dataset used:<a href= "https://www.kaggle.com/api/v1/datasets/download/matthuan/northwind-dataset"> Northwind Traders Data</a>
+
+3. Data Cleaning & Transformation:
 
    * Null handling and data type corrections.
    * Relationship establishment between tables (Orders, Products, Customers, Employees, Shippers, etc.)
 
-3. Data Modeling in Power BI:
+4. Data Modeling in Power BI:
 
    * Created data model with appropriate primary and foreign key relationships.
    * Used DAX for calculated columns and measures (e.g., Gross Revenue, Net Revenue, Discounts, KPIs).
 
-4. Data Visualization:
+5. Data Visualization:
 
    * Built interactive dashboards segmented into:
 
