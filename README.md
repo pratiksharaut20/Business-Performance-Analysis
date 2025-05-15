@@ -62,6 +62,7 @@ To analyze and visualize key business data across orders, products, customers, e
 ### *Dashboard:*
 
 ![Overview](images/dashboard1.png)
+![Order Analysis](images/dashboard2.png)
 ---
 
 ### *Project Insights:*
