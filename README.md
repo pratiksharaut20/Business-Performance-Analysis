@@ -50,20 +50,14 @@ To analyze and visualize key business data across orders, products, customers, e
 
    * Built interactive dashboards segmented into:
 
+     * Overview Dashboard
      * Order Analysis
      * Product Analysis
      * Employee Performance
      * Customer Analysis
      * Shipping Details
-     * Overview Dashboard
-       
+           
 --- 
-
-### *Dashboard:*
-
-![Overview](images/dashboard1.png)
-![Order Analysis](images/dashboard2.png)
----
 
 ### *Project Insights:*
 
@@ -80,3 +74,25 @@ To analyze and visualize key business data across orders, products, customers, e
 ### *Final Conclusion:*
 
 This Power BI project enabled a comprehensive analysis of company performance across multiple business domains. It helped identify top products, key customers, efficient employees, and shipping inefficiencies. With this insight, businesses can optimize their operations by focusing on high-performing segments, improving logistics, and strategizing around customer behavior for better revenue generation.
+
+---
+
+### *Dashboard:*
+
+### Overview Dashboard
+![Overview](images/dashboard1.png)
+
+### Order Analysis
+![Order Analysis](images/dashboard2.png)
+
+### Product Analysis
+![Product Analysis](images/dashboard3.png)
+
+### Employee Performance
+![Employee Performance](images/dashboard4.png)
+
+### Customer Analysis
+![Customer Analysis](images/dashboard5.png)
+
+### Shipping Details
+![Shipping Details](images/dashboard6.png)
