@@ -79,20 +79,20 @@ This Power BI project enabled a comprehensive analysis of company performance ac
 
 ### *Dashboard:*
 
-### Overview Dashboard
+#### Overview Dashboard
 ![Overview](images/dashboard1.png)
 
-### Order Analysis
+#### Order Analysis
 ![Order Analysis](images/dashboard2.png)
 
-### Product Analysis
+#### Product Analysis
 ![Product Analysis](images/dashboard3.png)
 
-### Employee Performance
+#### Employee Performance
 ![Employee Performance](images/dashboard4.png)
 
-### Customer Analysis
+#### Customer Analysis
 ![Customer Analysis](images/dashboard5.png)
 
-### Shipping Details
+#### Shipping Details
 ![Shipping Details](images/dashboard6.png)
